@@ -11,6 +11,9 @@ keywords = ["django", "freshdesk", "sso"]
 include = [
     "LICENSE",
 ]
+packages = [
+    {include = "freshdesk_sso"}
+]
 
 [tool.poetry.dependencies]
 python = "^3.7"
