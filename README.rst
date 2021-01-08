@@ -6,6 +6,8 @@ Django Freshdesk SSO
 
 Django Freshdesk SSO enables SSO for freshdesk from your django application.
 
+This package replaces the stale and out of date `django-freshdesk <https://pypi.org/project/django-freshdesk/>`_ package.
+
 Quick start
 -----------
 
