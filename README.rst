@@ -18,3 +18,9 @@ Quick start
 
     path('accounts/login/sso/', include('freshdesk_sso.urls')),
 
+
+3. Add the required environment variables to your settings.py file::
+
+    FRESHDESK_URL = 'http://yourcompany.freshdesk.com/'
+    FRESHDESK_SECRET_KEY = 'YOUR_SECRET_GOES_HERE'
+
