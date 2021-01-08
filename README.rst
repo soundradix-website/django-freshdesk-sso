@@ -1,6 +1,8 @@
 ====================
 Django Freshdesk SSO
 ====================
+.. image:: https://badge.fury.io/py/django-freshdesk-sso.svg
+    :target: https://badge.fury.io/py/django-freshdesk-sso
 
 Django Freshdesk SSO enables SSO for freshdesk from your django application.
 
