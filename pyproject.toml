@@ -2,7 +2,7 @@
 name = "django-freshdesk-sso"
 version = "0.2.0"
 description = "Django Freshdesk SSO enables SSO for freshdesk from your django application."
-authors = ["Wout De Puysseleir <woutdp@gmail.com>"]
+authors = ["Sound Radix <soundradix@soundradix.com>"]
 license = "MIT"
 readme = "README.rst"
 homepage = "https://github.com/soundradix-website/django-freshdesk-sso"
