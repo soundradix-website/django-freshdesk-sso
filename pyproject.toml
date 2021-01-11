@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-freshdesk-sso"
-version = "0.2.1"
+version = "0.2.2"
 description = "Django Freshdesk SSO enables SSO for freshdesk from your django application."
 authors = ["Sound Radix <soundradix@soundradix.com>"]
 license = "MIT"
